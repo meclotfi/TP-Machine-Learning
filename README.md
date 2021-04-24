@@ -1,6 +1,6 @@
 # TP Machine Learning
 
-#### TP01 : Régression  
+## TP01 : Régression  
 ===========================
 
 compléter le code afin de créer un regresseur linéaire et un autre logistique binaire. 
